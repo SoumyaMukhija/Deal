@@ -1,4 +1,7 @@
-DEAL: An online exchange platform made using React Native, MySQl. API: Loopback API. 
+DEAL: An online exchange platform made using React Native, MySQl. 
+
+
+API: Loopback API. 
 
 
 RUN:
